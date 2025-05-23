@@ -1,3 +1,8 @@
+<!-- Toolbar @TODO: Fix this if i want to add it in--> 
+<!-- <div style="background: #f8f8f8; padding: 10px 0; text-align: right; border-bottom: 1px solid #e0e0e0; margin-bottom: 24px;">
+  <a href="/hypertension-project-site/about/" style="margin-right: 20px; font-weight: bold; color: #0366d6; text-decoration: none;">About</a>
+</div> -->
+
 # Hypertension Treatment Response Prediction Project
 
 ## Problem Statement
